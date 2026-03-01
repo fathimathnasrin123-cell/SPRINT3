@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1093768617024",
+    "project_id": "carenow-19214",
+    "storage_bucket": "carenow-19214.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1093768617024:android:80e4c44950d2adccb193a5",
+        "android_client_info": {
+          "package_name": "com.example.carenow"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAy7ulaaQIkM-g6nbjlqKnsrC6CWxgMpo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
